@@ -23,7 +23,7 @@ TO BE UPDATED!
 - All obfuscated code is in the "ObfuscatedCode" folder
 
 # Languages used:
-- Python
+- Python 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
 
 <br />
