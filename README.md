@@ -2,6 +2,7 @@
 # Version: 0.0.2
 - By: Celvis
 
+![ICON](https://github.com/Celvis-wq/SharpPy/assets/78430018/329164a4-8662-4835-9110-1dc8971687b3)
 ![2024-01-17_10-53](https://github.com/Celvis-wq/FreakSearcher/assets/78430018/56e3edf5-0fd8-4811-a948-8158cdc6ec4b)
 
 ## Purpose:
