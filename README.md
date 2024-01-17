@@ -40,6 +40,7 @@ TODO:
 2. Apply better obfuscation algorithm
 3. Apply new UI
 
+
 Please report any further issues to me immediately! Discord: Celvis
 
 More improvements soon!
