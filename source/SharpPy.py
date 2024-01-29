@@ -159,3 +159,6 @@ globalObjectExclude = createEntry(settingsFrame, "Global Object Hiding (Exclude)
 
 # End
 root.mainloop()
+
+# TEST
+print("no")
