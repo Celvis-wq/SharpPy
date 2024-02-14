@@ -1,5 +1,5 @@
 # SharpPy - Version 0.0.2
-# Made by: Celvis - test
+# Made by: Celvis
 
 # Import
 import customtkinter as ctk
