@@ -23,7 +23,6 @@ def obfuscateCode():
         while os.path.exists(filename):
             count += 1
             filename = f"obfuscatedCode/obfuscatedCode{count}.py"
-            print("error")
 
         # Get the text from codeInput and write it to a file
         code = codeInput.get("1.0", tk.END)
