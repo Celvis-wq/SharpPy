@@ -11,6 +11,7 @@ import builtins
 import os
 
 # obfusactedCode function
+print("Noted")
 def obfuscateCode():
     try:
         # Ensure the obfuscatedCode directory exists
