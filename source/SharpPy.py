@@ -10,6 +10,8 @@ import keyword
 import builtins
 import os
 
+print("testing load")
+
 # obfusactedCode function
 def obfuscateCode():
     try:
