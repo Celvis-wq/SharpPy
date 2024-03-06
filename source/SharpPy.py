@@ -157,7 +157,5 @@ devtoolsBlockingPatience = createEntry(settingsFrame, "DevTools Blocking Patienc
 globalObjectInclude = createEntry(settingsFrame, "Global Object Hiding (Include)")
 globalObjectExclude = createEntry(settingsFrame, "Global Object Hiding (Exclude)")
 
-# New console
-
 # End
 root.mainloop()
